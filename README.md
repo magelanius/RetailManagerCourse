@@ -1,1 +1,1 @@
-# RetailManagerCourse
+# Retail Manager Course
